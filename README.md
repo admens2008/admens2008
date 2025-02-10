@@ -15,6 +15,7 @@ I am a passionate software engineer with a strong focus on backend development. 
 📊 Data Science – Analytics, Machine Learning Fundamentals
 
 
+
 🛠 Tech Stack
 
 Programming Languages: Python, JavaScript (ES6+), TypeScript
@@ -24,6 +25,7 @@ Frameworks & Libraries: Flask, Django, Node.js, Express.js
 Databases: MySQL, PostgreSQL, MongoDB, Redis
 
 Other Tools: Docker, Git, CI/CD, Cloud Services
+
 
 
 💡 Collaboration
