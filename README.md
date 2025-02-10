@@ -1,35 +1,26 @@
-# Hi there, I'm Adjei-Mensah (@admens2008) 👋
+Hi there, I'm Emmanuel Adjei-Mensah (@admens2008) 👋
+🚀 About Me
+I am a passionate software engineer with a strong focus on backend development. I thrive on solving complex problems, optimizing system performance, and building scalable applications. I have successfully completed the Software Engineering Foundations and the Backend Short Specialization at ALX.
 
-## About Me
-I am passionate about coding and constantly eager to learn new technologies and improve my skills. I have completed the Software Engineering Foundations at ALX and am currently pursuing the Backend Short Specialization.
+🔥 Interests & Expertise
+🌐 Backend Development – APIs, Databases, System Architecture
+💻 Full-Stack Development – Python, JavaScript, Django, Flask
+🤖 Artificial Intelligence – Data Processing, Automation
+📊 Data Science – Analytics, Machine Learning Fundamentals
 
-## Interests
-- 🌐 **Backend Development**
-- 💻 **Full-Stack Development**
-- 🤖 **Artificial Intelligence**
-- 📊 **Data Science**
+🛠 Tech Stack
+Programming Languages: Python, JavaScript (ES6+), TypeScript
+Frameworks & Libraries: Flask, Django, Node.js, Express.js
+Databases: MySQL, PostgreSQL, MongoDB, Redis
+Other Tools: Docker, Git, CI/CD, Cloud Services
+💡 Collaboration
+I am open to collaborating on:
+✅ Web Applications & API Development
+✅ Scalable Backend Systems
+✅ Open Source Contributions
 
-## Currently Learning
-- 📚 **Backend Development** at ALX
-- 🐍 **Advanced Python**
-- 🚀 **Microservices Architecture**
+📬 Let's Connect
+📧 Email: adjeimensah@gmail.com
+💼 LinkedIn: [Your LinkedIn Profile] (optional)
 
-## Collaboration
-I am open to collaborating on projects related to:
-- Web Development
-- Backend Systems
-- Open Source Contributions
-
-## Contact Me
-- 📧 Email: [adjeimensah@gmail.com](mailto:adjeimensah@gmail.com)
-
-
-Feel free to reach out to me for any collaborative opportunities or discussions about technology!
-
----
-
-
-<!---
-admens2008/admens2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let’s build something amazing together! 🚀
