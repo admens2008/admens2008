@@ -21,6 +21,6 @@ I am open to collaborating on:
 
 📬 Let's Connect
 📧 Email: adjeimensah@gmail.com
-💼 LinkedIn: [Your LinkedIn Profile] (optional)
+
 
 Let’s build something amazing together! 🚀
