@@ -7,23 +7,35 @@ I am a passionate software engineer with a strong focus on backend development. 
 🔥 Interests & Expertise
 
 🌐 Backend Development – APIs, Databases, System Architecture
+
 💻 Full-Stack Development – Python, JavaScript, Django, Flask
+
 🤖 Artificial Intelligence – Data Processing, Automation
+
 📊 Data Science – Analytics, Machine Learning Fundamentals
+
 
 🛠 Tech Stack
 
 Programming Languages: Python, JavaScript (ES6+), TypeScript
+
 Frameworks & Libraries: Flask, Django, Node.js, Express.js
+
 Databases: MySQL, PostgreSQL, MongoDB, Redis
+
 Other Tools: Docker, Git, CI/CD, Cloud Services
+
 
 💡 Collaboration
 
 I am open to collaborating on:
+
 ✅ Web Applications & API Development
+
 ✅ Scalable Backend Systems
+
 ✅ Open Source Contributions
+
 
 📬 Let's Connect
 
