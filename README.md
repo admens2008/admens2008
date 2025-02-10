@@ -1,4 +1,5 @@
 Hi there, I'm Emmanuel Adjei-Mensah (@admens2008) 👋
+
 🚀 About Me
 
 I am a passionate software engineer with a strong focus on backend development. I thrive on solving complex problems, optimizing system performance, and building scalable applications. I have successfully completed the Software Engineering Foundations and the Backend Short Specialization at ALX.
